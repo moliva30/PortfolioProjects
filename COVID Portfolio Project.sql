@@ -1,3 +1,6 @@
+-- Data Source: https://ourworldindata.org/explorers/coronavirus-data-explorer
+-- Data is valid from 1/3/20 to 1/2/23
+
 SELECT *
 FROM `portfolio-project1-392619.covid_data.deaths`
 ORDER BY 3,4
